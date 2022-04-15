@@ -1,4 +1,4 @@
-<h1 class=text-center >👋 Hi, I’m @Julian-H-Martinez</h1>
+👋 Hi, I’m @Julian-H-Martinez
 - 👀 I’m interested in many things, family, self-care/improvement, sports.
 - 🌱 I’m currently learning Full Stack Web Development - Java
 - 💞️ I’m looking to collaborate on Java based projects as either a back-end developer or full-stack developer.
